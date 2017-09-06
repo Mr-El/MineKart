@@ -1,0 +1,15 @@
+{
+  "name": "MineKart",
+  "description": "Transfer world saves between devices!",
+  "version": "0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["background.js"]
+    }
+  },
+  "icons": {
+    "128": "Images/mineKart_128.png",
+    "16": "Images/mineKart_16.png"
+  }
+}
