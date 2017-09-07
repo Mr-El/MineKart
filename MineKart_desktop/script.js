@@ -2,3 +2,5 @@
     chrome.app.window.create('index.html', { "width": 400, "height": 500 });
     window.close();
 });
+
+/* Navigation bar */
