@@ -14,5 +14,7 @@
   "icons": {
     "128": "Images/mineKart_128.png",
     "16": "Images/mineKart_16.png"
-  }
+  },
+  //Permissions for USB devices (Android)
+  "permissions": [ "usb" ]
 }
